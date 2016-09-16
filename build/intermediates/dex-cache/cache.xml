@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/caffeineLabs/Documents/SearchListView/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/caffeineLabs/Documents/SearchListView/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_1c0a26fb5036d96eaa22812a3c9b0ac80bdb0414/classes.dex" />
+    </item>
+    <item
+        jar="/Users/caffeineLabs/Documents/SearchListView/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="9b6401386e4b7a4cad713040e38ed83993f1db5e">
+        <dex dex="/Users/caffeineLabs/Documents/SearchListView/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0fe96ac456c8e83862edb3a0e22026b122eb8137/classes.dex" />
+    </item>
+    <item
+        jar="/Users/caffeineLabs/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/caffeineLabs/Documents/SearchListView/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_095a79f2284d222df85c439bf420e18a6deb5626/classes.dex" />
+    </item>
+    <item
+        jar="/Users/caffeineLabs/Documents/SearchListView/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="96e33a7aaee00ab64270e2a9887b8f9ef32c8b73">
+        <dex dex="/Users/caffeineLabs/Documents/SearchListView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-24.2.0_c195b58953f5664d02b8591c72d2dc224330fca1/classes.dex" />
+    </item>
+    <item
+        jar="/Users/caffeineLabs/Documents/SearchListView/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="313bde1eb68901171a97efee338b3003c8c577ff">
+        <dex dex="/Users/caffeineLabs/Documents/SearchListView/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d4bdcc03dee4ca01ca9477d0a30d0312807119be/classes.dex" />
+    </item>
+    <item
+        jar="/Users/caffeineLabs/Documents/SearchListView/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/caffeineLabs/Documents/SearchListView/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_ee11fa4cbb1bcd4cbd2d070e03df4de82c399636/classes.dex" />
+    </item>
+    <item
+        jar="/Users/caffeineLabs/Documents/SearchListView/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/caffeineLabs/Documents/SearchListView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.0_99d455104d9e93ab68fc71923c3ee1d06754e6bd/classes.dex" />
+    </item>
+    <item
+        jar="/Users/caffeineLabs/Documents/SearchListView/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/caffeineLabs/Documents/SearchListView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.0_a30038e646c6a5dc6c9c218b62f646888c5b5e8f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/caffeineLabs/Documents/SearchListView/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/caffeineLabs/Documents/SearchListView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.0_f234affe0f02bbab04014667cb267e5667f44018/classes.dex" />
+    </item>
+    <item
+        jar="/Users/caffeineLabs/Documents/SearchListView/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/caffeineLabs/Documents/SearchListView/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_542be457c72115cfec438a20020d9d110d572aa4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/caffeineLabs/Documents/SearchListView/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/caffeineLabs/Documents/SearchListView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.0_92b5088d27dade8902b813e6cbcd53f8bdc421f4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/caffeineLabs/Documents/SearchListView/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/caffeineLabs/Documents/SearchListView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.0_39e741da0b7475a02f454a63503009ae08afb08a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/caffeineLabs/Documents/SearchListView/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="/Users/caffeineLabs/Documents/SearchListView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.0_93fe80c3769295b368d8a07c6eb2f3c9b45525f0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/caffeineLabs/Documents/SearchListView/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/caffeineLabs/Documents/SearchListView/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_bd8d2671c8b31d6a3c31545440f8cab2a702e667/classes.dex" />
+    </item>
+    <item
+        jar="/Users/caffeineLabs/Documents/SearchListView/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="/Users/caffeineLabs/Documents/SearchListView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.0_93dce4f1ef7e58b4561f267431b65679b14c3665/classes.dex" />
+    </item>
+    <item
+        jar="/Users/caffeineLabs/Documents/SearchListView/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/caffeineLabs/Documents/SearchListView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.0_ebbf97cecf73a1f7a5169cd0de05880d736ade32/classes.dex" />
+    </item>
+    <item
+        jar="/Users/caffeineLabs/Documents/SearchListView/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/caffeineLabs/Documents/SearchListView/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_0c1ec7cf8b3d547263198a30a12f8973743f841d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/caffeineLabs/Documents/SearchListView/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/caffeineLabs/Documents/SearchListView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.0_ba9daa1c1492fbd2b2310eba74a2beca22e86d15/classes.dex" />
+    </item>
+    <item
+        jar="/Users/caffeineLabs/Documents/SearchListView/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/caffeineLabs/Documents/SearchListView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.0_8a7089e728d312768447d06b5f7d7a03c1892f7b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/caffeineLabs/Documents/SearchListView/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/caffeineLabs/Documents/SearchListView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.0_00b126c19e0ef385956099b73b88436bb8996076/classes.dex" />
+    </item>
+
+</items>
